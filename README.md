@@ -1,5 +1,4 @@
 # 1913072_RitwijaDixit_DMW_Assg1
-# 1913132_DMW_Assignment1: Apriori Algorithm
 ## Apriori Algorithm
 
 This is a simple implementation of Apriori Algorithm in Python. It takes in a csv file with a list of transactions, and results out the most frequent itemsets. The values for minimum_support should be given from the user at the runtime.
