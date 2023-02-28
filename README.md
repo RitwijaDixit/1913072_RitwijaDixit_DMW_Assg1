@@ -14,9 +14,9 @@ and so on..
 
 For uploading csv file, We have used following method:
 
-df=pd.read_csv(io.BytesIO(uploaded['dataset.csv']),header=None)
+df=pd.read_csv(io.BytesIO(uploaded['dataset1.csv']),header=None)
 
-Here, enter the csv file name in the method or rename the csv file name as dataset.csv.
+Here, enter the csv file name in the method or rename the csv file name as dataset1.csv.
 
 ### Output
 The output will show the most frequent itemsets from the given dataset.
